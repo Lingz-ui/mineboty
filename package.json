@@ -13,6 +13,7 @@
     },
  
 "dependencies": {
-    "mineboty": "^3.4.22"
+    "mineboty": "^3.4.22",
+    "express": "^4.18.1"
     }
 }
